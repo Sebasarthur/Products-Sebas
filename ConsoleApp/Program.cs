@@ -11,6 +11,7 @@ public class Program
         Console.WriteLine("1. Agregar producto");
         Console.WriteLine("2. Mostrar productos");
         Console.WriteLine("0. Salir");
+        Console.Write("hola");
 
         var option = Int32.Parse(Console.ReadLine());
 
